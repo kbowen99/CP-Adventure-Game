@@ -1,0 +1,44 @@
+R:\PROg\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+R:\PROg\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+R:\PROg\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+R:\PROg\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+R:\PROg\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm_AdventureGame.resources
+R:\PROg\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+R:\PROg\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.Cache
+R:\PROg\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+R:\PROg\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+R:\Programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+R:\Programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+R:\Programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+R:\Programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+R:\Programming\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm_AdventureGame.resources
+R:\Programming\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+R:\Programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.Cache
+R:\Programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+R:\Programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm_AdventureGame.resources
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.Cache
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.manifest
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\bin\Debug\Adventure Game.application
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe.manifest
+C:\Users\Kurtis\Desktop\Adventure Game\Adventure Game\obj\Debug\Adventure Game.application
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.manifest
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\bin\Debug\Adventure Game.application
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm_AdventureGame.resources
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.Cache
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe.manifest
+R:\Programming\AdvGameZip\Adventure Game\Adventure Game\obj\Debug\Adventure Game.application
